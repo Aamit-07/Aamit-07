@@ -61,6 +61,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/Aamit-07/output/snake.svg" alt="Snake animation" /> -->
 <img src="https://raw.githubusercontent.com/Aamit-07/Aamit-07/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Aamit-07/Aamit-07/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
